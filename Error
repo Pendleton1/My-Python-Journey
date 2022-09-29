@@ -1,0 +1,7 @@
+character_name = "Fatima"
+current_year = "257"
+print("Mt. Fasi " + current_year + ")
+print("Once upon a time,")
+print("human and monster lived in harmony.")
+print("Everthing was perfectly fine,")
+print("until " + character_name + " broke the rule")
